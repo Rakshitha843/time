@@ -1,0 +1,49 @@
+{"text": "Can we get the whole thing built for the fifth semester CSE students?", "intent": "create"}
+{"text": "Set me up with a weekly plan for CSE sem 3", "intent": "create"}
+{"text": "Time to put together classes for section B", "intent": "create"}
+{"text": "Need a fresh schedule, five subjects, CSE 5th", "intent": "create"}
+{"text": "Whip up a routine for the third semester", "intent": "create"}
+{"text": "Let's draw up the 5th sem CSE timetable", "intent": "create"}
+{"text": "Compose a schedule covering six subjects for CSE-3-A", "intent": "create"}
+{"text": "I'd like DBMS taught on Tuesday mornings", "intent": "modify"}
+{"text": "Nothing should happen on Friday after lunch", "intent": "modify"}
+{"text": "Dr. Rao can't make it on Mondays", "intent": "modify"}
+{"text": "Let's keep the evenings clear", "intent": "modify"}
+{"text": "Java should ideally be before noon", "intent": "modify"}
+{"text": "We would like a bigger gap for lunch", "intent": "modify"}
+{"text": "Stop putting labs back to back on one day", "intent": "modify"}
+{"text": "Wednesday afternoons must stay empty", "intent": "modify"}
+{"text": "Operating Systems only in the morning", "intent": "modify"}
+{"text": "Prof. Mehta shouldn't teach first thing", "intent": "modify"}
+{"text": "Free up Saturday for us", "intent": "modify"}
+{"text": "Can the lunch hour be extended", "intent": "modify"}
+{"text": "Please ensure that nobody has classes past 5 pm", "intent": "modify"}
+{"text": "Machine Learning needs to be on Thursday", "intent": "modify"}
+{"text": "Take Monday morning off the table for Mr. Kumar", "intent": "modify"}
+{"text": "Bring DBMS forward to Tuesday", "intent": "move"}
+{"text": "Can Java go to Wednesday instead of Monday", "intent": "move"}
+{"text": "Slide Computer Networks over to Friday", "intent": "move"}
+{"text": "I want Operating Systems on Thursday rather than Tuesday, shift it", "intent": "move"}
+{"text": "Put the DBMS lab onto Monday instead", "intent": "move"}
+{"text": "Push Machine Learning from Friday to Monday", "intent": "move"}
+{"text": "Relocate Software Engineering to Wednesday afternoon", "intent": "move"}
+{"text": "Switch the Java class from Tuesday to Thursday", "intent": "move"}
+{"text": "Let me see section A's week", "intent": "view"}
+{"text": "Pull up everything for Dr. Rao", "intent": "view"}
+{"text": "Only labs, please show those", "intent": "view"}
+{"text": "I'd like to look at Monday only", "intent": "view"}
+{"text": "What does the DBMS schedule look like", "intent": "view"}
+{"text": "Bring back the whole timetable", "intent": "view"}
+{"text": "Display theory classes only", "intent": "view"}
+{"text": "Show me what Room 101 is doing", "intent": "view"}
+{"text": "Give me another shot at this timetable", "intent": "regenerate"}
+{"text": "This one's not good, shuffle it", "intent": "regenerate"}
+{"text": "Run the scheduler once more", "intent": "regenerate"}
+{"text": "Produce a different arrangement with the same constraints", "intent": "regenerate"}
+{"text": "Try for a new layout", "intent": "regenerate"}
+{"text": "Roll the dice again on the timetable", "intent": "regenerate"}
+{"text": "Throw everything away and start again", "intent": "reset"}
+{"text": "Wipe all the rules", "intent": "reset"}
+{"text": "Clean slate please", "intent": "reset"}
+{"text": "Forget all constraints so far", "intent": "reset"}
+{"text": "Let's begin from zero", "intent": "reset"}

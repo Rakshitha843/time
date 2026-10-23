@@ -1,0 +1,51 @@
+{"text": "Create a timetable for CSE 5th semester with six subjects.", "intent": "create", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Generate a schedule for CSE semester 3", "intent": "create", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Please build me a timetable for CSE 5th sem section A", "intent": "create", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "I need a timetable for the 5th semester", "intent": "create", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Prepare a new timetable for CSE-3-A", "intent": "create", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Schedule DBMS on Monday morning.", "intent": "modify", "days": ["Monday"], "subjects": ["DBMS"], "teachers": [], "hard": false, "ctype": "require"}
+{"text": "Put Operating Systems on Tuesday afternoon", "intent": "modify", "days": ["Tuesday"], "subjects": ["Operating Systems"], "teachers": [], "hard": false, "ctype": "require"}
+{"text": "DBMS must be on Wednesday", "intent": "modify", "days": ["Wednesday"], "subjects": ["DBMS"], "teachers": [], "hard": true, "ctype": "require"}
+{"text": "Try to schedule Java before noon", "intent": "modify", "days": [], "subjects": ["Java Programming"], "teachers": [], "hard": false, "ctype": "require"}
+{"text": "Schedule Machine Learning on Thursday after 2 PM", "intent": "modify", "days": ["Thursday"], "subjects": ["Machine Learning"], "teachers": [], "hard": false, "ctype": "require"}
+{"text": "Don't schedule classes after 4 PM.", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "No classes after 5 pm", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Do not schedule anything before 10 AM", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Keep Friday afternoon free.", "intent": "modify", "days": ["Friday"], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Keep Wednesday free.", "intent": "modify", "days": ["Wednesday"], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Give us Saturday off", "intent": "modify", "days": ["Saturday"], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "No classes on Mondays", "intent": "modify", "days": ["Monday"], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Please keep Fridy free", "intent": "modify", "days": ["Friday"], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Avoid scheduling two lab sessions on the same day.", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "max_labs_per_day"}
+{"text": "No two labs on the same day", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "max_labs_per_day"}
+{"text": "Labs should be on different days", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": false, "ctype": "max_labs_per_day"}
+{"text": "Avoid classes between 12 and 2", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": false, "ctype": "forbid"}
+{"text": "Dr. Rao is not available on Friday", "intent": "modify", "days": ["Friday"], "subjects": [], "teachers": ["Dr. Rao"], "hard": true, "ctype": "forbid"}
+{"text": "Mr Kumar cannot teach on Monday", "intent": "modify", "days": ["Monday"], "subjects": [], "teachers": ["Mr. Kumar"], "hard": true, "ctype": "forbid"}
+{"text": "Avoid the first period for Prof. Mehta", "intent": "modify", "days": [], "subjects": [], "teachers": ["Prof. Mehta"], "hard": false, "ctype": "forbid"}
+{"text": "Prefer no classes after lunch on Friday", "intent": "modify", "days": ["Friday"], "subjects": [], "teachers": [], "hard": false, "ctype": "forbid"}
+{"text": "Move the Java class from Monday to Wednesday.", "intent": "move", "days": ["Monday", "Wednesday"], "subjects": ["Java Programming"], "teachers": [], "hard": true, "ctype": null}
+{"text": "Move DBMS to Tuesday.", "intent": "move", "days": ["Tuesday"], "subjects": ["DBMS"], "teachers": [], "hard": true, "ctype": null}
+{"text": "Shift Operating Systems from Thursday to Friday", "intent": "move", "days": ["Thursday", "Friday"], "subjects": ["Operating Systems"], "teachers": [], "hard": true, "ctype": null}
+{"text": "Reschedule Computer Networks to Monday", "intent": "move", "days": ["Monday"], "subjects": ["Computer Networks"], "teachers": [], "hard": true, "ctype": null}
+{"text": "Move the DBMS lab to Wednesday", "intent": "move", "days": ["Wednesday"], "subjects": ["DBMS Lab"], "teachers": [], "hard": true, "ctype": null}
+{"text": "Show the timetable for Section A.", "intent": "view", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Show only laboratory sessions.", "intent": "view", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Display Dr. Rao's timetable", "intent": "view", "days": [], "subjects": [], "teachers": ["Dr. Rao"], "hard": null, "ctype": null}
+{"text": "Show me only Monday", "intent": "view", "days": ["Monday"], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Show everything", "intent": "view", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Please regenerate the timetable", "intent": "regenerate", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Try again with a different timetable", "intent": "regenerate", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Reshuffle everything", "intent": "regenerate", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Reset everything", "intent": "reset", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Start over", "intent": "reset", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Give us a longer lunch break.", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "Make the lunch break shorter", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": null, "ctype": null}
+{"text": "No early classes", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "Avoid early classes for Dr. Rao", "intent": "modify", "days": [], "subjects": [], "teachers": ["Dr. Rao"], "hard": false, "ctype": "forbid"}
+{"text": "Don't schedule late classes on Friday", "intent": "modify", "days": ["Friday"], "subjects": [], "teachers": [], "hard": true, "ctype": "forbid"}
+{"text": "No more than 3 classes in a row", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": true, "ctype": "max_consecutive"}
+{"text": "Avoid back-to-back classes", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": false, "ctype": "max_consecutive"}
+{"text": "Not too many classes in a row", "intent": "modify", "days": [], "subjects": [], "teachers": [], "hard": false, "ctype": "max_consecutive"}
+{"text": "Dr. Rao should not have more than 2 classes in a row", "intent": "modify", "days": [], "subjects": [], "teachers": ["Dr. Rao"], "hard": true, "ctype": "max_consecutive"}
+{"text": "Schedule Java first thing on Monday", "intent": "modify", "days": ["Monday"], "subjects": ["Java Programming"], "teachers": [], "hard": false, "ctype": "require"}

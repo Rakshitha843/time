@@ -1,0 +1,660 @@
+{"text": "another version please", "intent": "regenerate"}
+{"text": "ok so move DBMS lab to Friday at 3:15 pm for me", "intent": "move"}
+{"text": "kindly prepare the schedule for semester 3", "intent": "create"}
+{"text": "now give me another timetable.", "intent": "regenerate"}
+{"text": "kindly shift Digital Logic to Mon morning please", "intent": "move"}
+{"text": "COULD YOU START AFRESH!", "intent": "reset"}
+{"text": "don't put Operating Systms on Saturday", "intent": "modify"}
+{"text": "Try aain!", "intent": "regenerate"}
+{"text": "please whch classes are on Thursday!", "intent": "view"}
+{"text": "Show everything!", "intent": "view"}
+{"text": "ok so make Tuesday a free day please", "intent": "modify"}
+{"text": "please transfer Operating Systems from Mon to Mon please", "intent": "move"}
+{"text": "could you view the timetable for semester 3 please", "intent": "view"}
+{"text": "ok so create a timetable for semester 3 now", "intent": "create"}
+{"text": "make a new version of this timetable.", "intent": "regenerate"}
+{"text": "ok so give us a longer lunch break", "intent": "modify"}
+{"text": "generate a timetable for CSE 5th semester with 6 subjects please", "intent": "create"}
+{"text": "list the lab classes for me", "intent": "view"}
+{"text": "now schedule DBMS on Fri!", "intent": "modify"}
+{"text": "can you create a timetable for CSE-5-A please", "intent": "create"}
+{"text": "Schedule dbms lab on thursday", "intent": "modify"}
+{"text": "another version please!", "intent": "regenerate"}
+{"text": "now clear all constraints now", "intent": "reset"}
+{"text": "I want you to add a break on Tuesday afternooon!", "intent": "modify"}
+{"text": "reset all please", "intent": "reset"}
+{"text": "hey, start over", "intent": "reset"}
+{"text": "kindly wipe it and begin again please", "intent": "reset"}
+{"text": "please display all labs", "intent": "view"}
+{"text": "can you keep Saturday free", "intent": "modify"}
+{"text": "I want you to show me only Tuesday after lunch.", "intent": "view"}
+{"text": "please reset all!", "intent": "reset"}
+{"text": "now ensure Thursday after lunch is free", "intent": "modify"}
+{"text": "I want you to put Discrete Mathematics on Thu evening.", "intent": "modify"}
+{"text": "now show Data Structures classes", "intent": "view"}
+{"text": "kindly redo the timetable", "intent": "regenerate"}
+{"text": "hey, regenerate it with the same rules for me", "intent": "regenerate"}
+{"text": "Software Engineering should be in the after lunch!", "intent": "modify"}
+{"text": "I want you to set up the CSE-5-A timetable for me", "intent": "create"}
+{"text": "can you wipe it and begin again please", "intent": "reset"}
+{"text": "can you Computer Networks must be on Wed!", "intent": "modify"}
+{"text": "hey, rerun the solver for me", "intent": "regenerate"}
+{"text": "set up the CSE-5-A timetable", "intent": "create"}
+{"text": "hey, no classes after 11 am", "intent": "modify"}
+{"text": "please don't put DBMS on Wed", "intent": "modify"}
+{"text": "give us Monday off", "intent": "modify"}
+{"text": "give us a longer lunch break", "intent": "modify"}
+{"text": "can you reschedule DBMS lab to Wed!", "intent": "move"}
+{"text": "generate timetable CSE 3rd semester", "intent": "create"}
+{"text": "kindly keep Wednesday afternoon free", "intent": "modify"}
+{"text": "Set up the semester 3 timetable.", "intent": "create"}
+{"text": "remove all constraints", "intent": "reset"}
+{"text": "hey, let's start from scratch!", "intent": "reset"}
+{"text": "try again!", "intent": "regenerate"}
+{"text": "ok so show everything", "intent": "view"}
+{"text": "resshuffle everything", "intent": "regenerate"}
+{"text": "can you show DBMS lab classes", "intent": "view"}
+{"text": "don't put Operating Systems on Saturrday", "intent": "modify"}
+{"text": "kindly Java must be on Saturday now", "intent": "modify"}
+{"text": "no classes between 11 am and 11 am now", "intent": "modify"}
+{"text": "Kindly don't schedule classes after 9 am", "intent": "modify"}
+{"text": "I want you to start afresh.", "intent": "reset"}
+{"text": "please keep Saturday free now", "intent": "modify"}
+{"text": "hey, swap Computer Networks to Thu.", "intent": "move"}
+{"text": "I want you to clear everything and start over for me", "intent": "reset"}
+{"text": "could you please generate a schedule for CSE 5th semester", "intent": "create"}
+{"text": "rerun the solver!", "intent": "regenerate"}
+{"text": "build a new timetable for semester 3 for me", "intent": "create"}
+{"text": "Create a timetable for section b!", "intent": "create"}
+{"text": "please change Java lab from Thursday to Thursday for me", "intent": "move"}
+{"text": "now start afrresh.", "intent": "reset"}
+{"text": "can you give us Tuesday off.", "intent": "modify"}
+{"text": "hey, show the timetable for CSE 5th semester!", "intent": "view"}
+{"text": "kindly forget everything!", "intent": "reset"}
+{"text": "see the Thursday schedule", "intent": "view"}
+{"text": "I want you to show me only Thursday after lunch", "intent": "view"}
+{"text": "please let's start from scratch.", "intent": "reset"}
+{"text": "kindly shuffle the classes and try again for me", "intent": "regenerate"}
+{"text": "Java must be on Tuesday", "intent": "modify"}
+{"text": "kindly move it to Monday for me", "intent": "move"}
+{"text": "hey, move it to Wed for me", "intent": "move"}
+{"text": "Can you produce a weekly timetable for section b with 8 subjects.", "intent": "create"}
+{"text": "hey, reschedule Dr. Rao's class to Tue please", "intent": "move"}
+{"text": "now Prof. Gupta is not available on Tue for me", "intent": "modify"}
+{"text": "kindly can you move Java to Thursday", "intent": "move"}
+{"text": "PLEASE GENERATE A SCHEDULE FOR SEMESTER 3.", "intent": "create"}
+{"text": "now prepone Computer Networks to Saturday", "intent": "move"}
+{"text": "KINDLY MAKE MON A FREE DAY PLEAE", "intent": "modify"}
+{"text": "move Data Structures to Wed for me", "intent": "move"}
+{"text": "hey, please move Java to Wednesday after lunch", "intent": "move"}
+{"text": "I want you to move database to Saturday at 11 am please", "intent": "move"}
+{"text": "hey, redo the timetable", "intent": "regenerate"}
+{"text": "please make a timetable for section B", "intent": "create"}
+{"text": "MOVE THE OPERATING SYSTEMS CLASS FROM WED TO WED", "intent": "move"}
+{"text": "Now display the schedule for cse-5-a now", "intent": "view"}
+{"text": "ok so I want a timetable for section A with six subjects!", "intent": "create"}
+{"text": "redo it now", "intent": "regenerate"}
+{"text": "hey, re-run the scheduling", "intent": "regenerate"}
+{"text": "kindly clear everything and start over", "intent": "reset"}
+{"text": "kindly show me Tue", "intent": "view"}
+{"text": "kindly please move Computer Networks to Wednesday morning now", "intent": "move"}
+{"text": "now move the DBMS class from Tuesday to Tuesday please", "intent": "move"}
+{"text": "ok so transfer Machine Learning from Tuesday to Tuesday now", "intent": "move"}
+{"text": "ok so make a new version of this timetable", "intent": "regenerate"}
+{"text": "kindly shuffle the classes and try again!", "intent": "regenerate"}
+{"text": "Show the timetable for 5th sem now", "intent": "view"}
+{"text": "please show only laboratory sessions", "intent": "view"}
+{"text": "Can you mehta cannot teach on tue please", "intent": "modify"}
+{"text": "kindly draft a timetable for 5th sem.", "intent": "create"}
+{"text": "now reset everything", "intent": "reset"}
+{"text": "please reset eveything", "intent": "reset"}
+{"text": "Hey, put machine learning on thhursday morning!", "intent": "modify"}
+{"text": "Hey, print the timetable for 5th sem please", "intent": "view"}
+{"text": "Now what is the timetable for mehta", "intent": "view"}
+{"text": "generate timetable CSE 3rd seester.", "intent": "create"}
+{"text": "Hey, clases only after 4:30 pm please", "intent": "modify"}
+{"text": "can you put Discrete Mathematics on Friday after lunch for me", "intent": "modify"}
+{"text": "now see the Thu schedule", "intent": "view"}
+{"text": "kindly keep Wed free please", "intent": "modify"}
+{"text": "Can you reset all", "intent": "reset"}
+{"text": "please generate it again!", "intent": "regenerate"}
+{"text": "please shift the OS lecture from Monday to Monday now", "intent": "move"}
+{"text": "Hey, no classes between 2 pm and 2 pm", "intent": "modify"}
+{"text": "display Dr. Rao's timetable please", "intent": "view"}
+{"text": "I want you to shuffle the classes and try again!", "intent": "regenerate"}
+{"text": "new timetable for CSE-5-A", "intent": "create"}
+{"text": "kindly show the full timetable", "intent": "view"}
+{"text": "hey, make a timetable for CSE-5-A.", "intent": "create"}
+{"text": "pleae show me Mon", "intent": "view"}
+{"text": "generate it again", "intent": "regenerate"}
+{"text": "I want you to please move Digital Logic to Saturday afternoon", "intent": "move"}
+{"text": "kindly prpare the schedule for semester 3 please", "intent": "create"}
+{"text": "I want you to start over", "intent": "reset"}
+{"text": "Start over for me", "intent": "reset"}
+{"text": "I want you to avoid Saturday for Rao for me", "intent": "modify"}
+{"text": "could you change Java lab from Tuesday to Tuesday", "intent": "move"}
+{"text": "could you reset everything!", "intent": "reset"}
+{"text": "now make Fri a free day", "intent": "modify"}
+{"text": "can you reset everything now", "intent": "reset"}
+{"text": "can you relocate Computer Networks to Tuesday please", "intent": "move"}
+{"text": "I want you to avoid mon for dr. rao please", "intent": "modify"}
+{"text": "could you rerun the solver for me", "intent": "regenerate"}
+{"text": "kindly delete all constraints!", "intent": "reset"}
+{"text": "now regenerate it with the same rules.", "intent": "regenerate"}
+{"text": "no classes between 3:15 pm and 3:15 pm", "intent": "modify"}
+{"text": "can you do not schedule anything before 1 PM please", "intent": "modify"}
+{"text": "can you make Wednesday a free day please", "intent": "modify"}
+{"text": "Ok so shift computer networks to wed afternoon", "intent": "move"}
+{"text": "could you which classes are on Wed now", "intent": "view"}
+{"text": "change DBMS from Thurday to Thursday", "intent": "move"}
+{"text": "KINDLY PLEASE REGENERATE NOW", "intent": "regenerate"}
+{"text": "can you reschedule Digital Logic to Saturday.", "intent": "move"}
+{"text": "I want you to I need a timetable for 5th sem for me", "intent": "create"}
+{"text": "can you keep Wed afternoon free", "intent": "modify"}
+{"text": "can you schedule Software Engineering on Monday after lunch.", "intent": "modify"}
+{"text": "wipe it and begin again", "intent": "reset"}
+{"text": "try again", "intent": "regenerate"}
+{"text": "can you display Rao's timetable!", "intent": "view"}
+{"text": "can you please regenerate for me", "intent": "regenerate"}
+{"text": "can you reshuffle everything for me", "intent": "regenerate"}
+{"text": "hey, shuffle the classes and try again", "intent": "regenerate"}
+{"text": "Hey, view the timetable for cse 3rd semester!", "intent": "view"}
+{"text": "please come up with a timetable for CSE 5th semester for me", "intent": "create"}
+{"text": "please move Operating Systems to Saturday please", "intent": "move"}
+{"text": "kindly remove all constraints please", "intent": "reset"}
+{"text": "Kindly ms. sharma is not available on friday for me", "intent": "modify"}
+{"text": "could you show only laboratory sessions!", "intent": "view"}
+{"text": "prepone DBMS to Wed.", "intent": "move"}
+{"text": "please generate a schedule for semester 3 now", "intent": "create"}
+{"text": "Ok so when is java lab now", "intent": "view"}
+{"text": "schedule Software Engineering on Tue pleae", "intent": "modify"}
+{"text": "hey, prefer no classes on Friday evening", "intent": "modify"}
+{"text": "start afresh.", "intent": "reset"}
+{"text": "NOW CREATE A TIMETABLE FOR CSE 3RD SEMESTER", "intent": "create"}
+{"text": "Could you can you create a timetable for cse 3rd semester!", "intent": "create"}
+{"text": "kindly prepone Discrete Mathematics to Mon now", "intent": "move"}
+{"text": "RESTRICT RAO TO MORNING CLASSES.", "intent": "modify"}
+{"text": "could you create a timetable for semester 3 please", "intent": "create"}
+{"text": "I want you to Operating Systems must be on Monday", "intent": "modify"}
+{"text": "now put DBMS on Wed before lunch", "intent": "modify"}
+{"text": "I want you to shift the Discrete Mathematics lecture from Mon to Mon for me", "intent": "move"}
+{"text": "I want you to keep Friday before lunch free now", "intent": "modify"}
+{"text": "please list the lab classes", "intent": "view"}
+{"text": "move DBMS to Fri at 10 AM", "intent": "move"}
+{"text": "move Machine Learning to Tue at 11 am", "intent": "move"}
+{"text": "MAKE A TIMETABLE FOR SEMESTER 3", "intent": "create"}
+{"text": "could you show timetable of Dr. Iyer", "intent": "view"}
+{"text": "Hey, i need a timetable for section a", "intent": "create"}
+{"text": "Please which classes are on tuesday", "intent": "view"}
+{"text": "now show Machine Learning classes", "intent": "view"}
+{"text": "I want you to prefer no classes on Tuesday evening", "intent": "modify"}
+{"text": "can you let's start from scratchh.", "intent": "reset"}
+{"text": "hey, show everyything.", "intent": "view"}
+{"text": "I want you to avoid the first period for Mehta.", "intent": "modify"}
+{"text": "Now clear all constraints", "intent": "reset"}
+{"text": "Could you generatte timetable section a.", "intent": "create"}
+{"text": "can you limit classes to before 5 PM for me", "intent": "modify"}
+{"text": "now move Java from Saturday to Saturday please", "intent": "move"}
+{"text": "generate a tietable for section A with 6 subjects.", "intent": "create"}
+{"text": "I want you to keep Saturday after lunch free", "intent": "modify"}
+{"text": "start afresh for me", "intent": "reset"}
+{"text": "please shift the Operating Systems lecture from Monday to Monday", "intent": "move"}
+{"text": "ok so limit classes to before 4 PM for me", "intent": "modify"}
+{"text": "can you show only theory classes!", "intent": "view"}
+{"text": "kindly put DBMS lab on Wednesday morning", "intent": "modify"}
+{"text": "hey, new timetable for CSE 5th semester.", "intent": "create"}
+{"text": "ensure Fri before lunch is free", "intent": "modify"}
+{"text": "please prepare the schedule for CSE-5-A", "intent": "create"}
+{"text": "can you show everything", "intent": "view"}
+{"text": "can you can you reshuffle the timetable!", "intent": "regenerate"}
+{"text": "don't schedule classes after 3:15 pm for me", "intent": "modify"}
+{"text": "show the CSE 5th semester timetable please", "intent": "view"}
+{"text": "hey, shift Operating Systems to Fri afternoon now", "intent": "move"}
+{"text": "now avoid the first period for Rao", "intent": "modify"}
+{"text": "when is Java lab pease", "intent": "view"}
+{"text": "hey, shuffle the classes and try again!", "intent": "regenerate"}
+{"text": "please show the CSE 3rd semester timetable", "intent": "view"}
+{"text": "now remove all constraints", "intent": "reset"}
+{"text": "keep Tuesday free", "intent": "modify"}
+{"text": "Ok so view the timetable for semester 3 please", "intent": "view"}
+{"text": "make a new version of this timetable now", "intent": "regenerate"}
+{"text": "Reschedule mehta's class to tue please", "intent": "move"}
+{"text": "list the lab classes", "intent": "view"}
+{"text": "now don't put networks on Tuesday now", "intent": "modify"}
+{"text": "Please reschedule dbms lab to saturday", "intent": "move"}
+{"text": "clear all constraints.", "intent": "reset"}
+{"text": "hey, make a timetable for 5th sem for me", "intent": "create"}
+{"text": "View the timetable for semester 3!", "intent": "view"}
+{"text": "Please give us a longer lunch break", "intent": "modify"}
+{"text": "ok so new timetable for semester 3", "intent": "create"}
+{"text": "could you wipe it and begin again for me", "intent": "reset"}
+{"text": "please I want a timetable for CSE 3rd semester with six subjects.", "intent": "create"}
+{"text": "I want a different timetable.", "intent": "regenerate"}
+{"text": "hey, ensure Tuesday afternoon is free", "intent": "modify"}
+{"text": "kindly show me Thu now", "intent": "view"}
+{"text": "kindly I want a different timmetable please", "intent": "regenerate"}
+{"text": "please regenerate it with the same rules now", "intent": "regenerate"}
+{"text": "kindly make sure therre are no labs on Tuesday please", "intent": "modify"}
+{"text": "kindly reset the timetable", "intent": "reset"}
+{"text": "could you please generate a schedule for CSE 5th semester.", "intent": "create"}
+{"text": "kindly I prefer Data Structures in the morning", "intent": "modify"}
+{"text": "please forget everything", "intent": "reset"}
+{"text": "kindly print the timetable for semester 3!", "intent": "view"}
+{"text": "can you move DBMS lab to Friday", "intent": "move"}
+{"text": "please I need a timetable for CSE 3rd semester now", "intent": "create"}
+{"text": "could you display Prof. Mehta's timetable", "intent": "view"}
+{"text": "please delete all constraints", "intent": "reset"}
+{"text": "no classes between 2 PM and 2 PM now", "intent": "modify"}
+{"text": "could you make the lunch break shrter for me", "intent": "modify"}
+{"text": "Make a new version of this timetable please", "intent": "regenerate"}
+{"text": "build a new timetable for semester 3 for me", "intent": "create"}
+{"text": "I want you to new timetable for section B!", "intent": "create"}
+{"text": "now come up with a timetable for CSE 5th semester now", "intent": "create"}
+{"text": "hey, classes only after noon", "intent": "modify"}
+{"text": "Ok so networks should be in the before lunch please", "intent": "modify"}
+{"text": "move it to Fri!", "intent": "move"}
+{"text": "can you clear all constraints", "intent": "reset"}
+{"text": "can you move Operatting Systems from Thu to Thu please", "intent": "move"}
+{"text": "I want you to when is Operating Systems please", "intent": "view"}
+{"text": "please produce a weekly timetable for semester 3 with seven subjects now", "intent": "create"}
+{"text": "relocate DBMS lab to Tue!", "intent": "move"}
+{"text": "ok so ensure Friday before lunch is free.", "intent": "modify"}
+{"text": "could you generate it again", "intent": "regenerate"}
+{"text": "show only theory classes", "intent": "view"}
+{"text": "generate timetable semester 3", "intent": "create"}
+{"text": "hey, produce a weekly timetable for 5th sem with 6 subjects!", "intent": "create"}
+{"text": "please when is Discrete Mathematics now", "intent": "view"}
+{"text": "now display Dr. Iyer's timetable please", "intent": "view"}
+{"text": "please reset everything", "intent": "reset"}
+{"text": "I want you to reset the timetable now", "intent": "reset"}
+{"text": "could you try to schedule DBMS lab before 3:15 pm!", "intent": "modify"}
+{"text": "I want you to relocate Software Engineering to Wednesday", "intent": "move"}
+{"text": "please make the lunch break shorter for me", "intent": "modify"}
+{"text": "can you move Digital Logic from Saturday to Saturday now", "intent": "move"}
+{"text": "hey, regenerate it with the same rules now", "intent": "regenerate"}
+{"text": "display Mehta's timetable", "intent": "view"}
+{"text": "Could you show me only saturday after lunch.", "intent": "view"}
+{"text": "kindly no classes between 5 PM and 5 PM.", "intent": "modify"}
+{"text": "Postpone data structures to tuesday please", "intent": "move"}
+{"text": "could you draft a timetable for 5th sem for me", "intent": "create"}
+{"text": "please reshuffle everythng", "intent": "regenerate"}
+{"text": "could you see the Wed schedule", "intent": "view"}
+{"text": "hey, when is database", "intent": "view"}
+{"text": "kindly show me Fri", "intent": "view"}
+{"text": "Hey, show the cse 3rd semester timetable", "intent": "view"}
+{"text": "I want you to can you reshuffle the timetable for me", "intent": "regenerate"}
+{"text": "kindly postpone DBMS lab to Monday for me", "intent": "move"}
+{"text": "ok so I prefer DBMS lab in the before lunch now", "intent": "modify"}
+{"text": "postpone Operating Systems to Wed!", "intent": "move"}
+{"text": "now move OS from Saturday to Saturday please", "intent": "move"}
+{"text": "ok so see the Thursday schedule", "intent": "view"}
+{"text": "could you ensure Wed after lunch is free.", "intent": "modify"}
+{"text": "ok so new tmetable for CSE 5th semester", "intent": "create"}
+{"text": "hey, add a break on Wed before lunch for me", "intent": "modify"}
+{"text": "Show me tuesday pease", "intent": "view"}
+{"text": "now display all labs.", "intent": "view"}
+{"text": "Rao cannot teach on Tuesday.", "intent": "modify"}
+{"text": "now display the schedule for CSE 5th semester now", "intent": "view"}
+{"text": "please remove all constraints!", "intent": "reset"}
+{"text": "can you I need a timetable for CSE 5th semester please", "intent": "create"}
+{"text": "KINDLY BUILD A NEW TIMETABLE FOR CSE 3RD SEMESTER", "intent": "create"}
+{"text": "please generate timetable section A", "intent": "create"}
+{"text": "I prefer data structures in the morning for me", "intent": "modify"}
+{"text": "please regeneate!", "intent": "regenerate"}
+{"text": "could you please move Data Structures to Thursday morning.", "intent": "move"}
+{"text": "I want a different timetable for me", "intent": "regenerate"}
+{"text": "please prepare the schedule for semester 3 now", "intent": "create"}
+{"text": "shift the Computer Networks lecture from Thursday to Thursday now", "intent": "move"}
+{"text": "could you I want a differrent timetable.", "intent": "regenerate"}
+{"text": "I want you to move the Java class from Mon to Mon.", "intent": "move"}
+{"text": "kindly make sure there are no labs on Thu", "intent": "modify"}
+{"text": "Regenerate the timetable", "intent": "regenerate"}
+{"text": "Can you reshuffle the timetable", "intent": "regenerate"}
+{"text": "please see the Tue schedule for me", "intent": "view"}
+{"text": "ok so transfer Operating Systems from Friday to Friday now", "intent": "move"}
+{"text": "Hey, forget everything!", "intent": "reset"}
+{"text": "make the lunch break shorter", "intent": "modify"}
+{"text": "move OS to Wed at 9 AM!", "intent": "move"}
+{"text": "coulld you make a new version of this timetable", "intent": "regenerate"}
+{"text": "regenerate the timetable please", "intent": "regenerate"}
+{"text": "ok so forget everything", "intent": "reset"}
+{"text": "Regenerate the timetable for me", "intent": "regenerate"}
+{"text": "Please move the operating systems class from saurday to saturday please", "intent": "move"}
+{"text": "could you schedule Operating Systems on Thu afternoon now", "intent": "modify"}
+{"text": "hey, list the lab classes", "intent": "view"}
+{"text": "hey, add a break on Monday after lunch please", "intent": "modify"}
+{"text": "hey, restrict Prof. Mehta to after lunch classes", "intent": "modify"}
+{"text": "can you redo the timetable", "intent": "regenerate"}
+{"text": "ok so show the timetable for CSE 3rd semester", "intent": "view"}
+{"text": "Could you reset the timetable!", "intent": "reset"}
+{"text": "please reset the timetabe now", "intent": "reset"}
+{"text": "now avoid scheduling two lab sessions on the same day", "intent": "modify"}
+{"text": "please try to schedule Computer Networks before 9 AM", "intent": "modify"}
+{"text": "classes only after 3:15 pm!", "intent": "modify"}
+{"text": "can you display all labs", "intent": "view"}
+{"text": "please move the Digital Logic class from Wednesday to Wednesday", "intent": "move"}
+{"text": "regenerate it with the same rules!", "intent": "regenerate"}
+{"text": "now what is the timetable for Rao", "intent": "view"}
+{"text": "HEY, TRANSFER DBMS LAB FROM THURSDAY TO THURSDAY!", "intent": "move"}
+{"text": "I want you to forget everything for me", "intent": "reset"}
+{"text": "make a new version of this timetable now", "intent": "regenerate"}
+{"text": "please rerun the solver", "intent": "regenerate"}
+{"text": "Could you set up the 5th sem timetable", "intent": "create"}
+{"text": "kindly transfer Java lab from Tuesday to Tuesday", "intent": "move"}
+{"text": "please display the schedule for section A", "intent": "view"}
+{"text": "I want you to clear everything and start over for me", "intent": "reset"}
+{"text": "Ok so dr. iyer is not available on tuesday now", "intent": "modify"}
+{"text": "ok so I prefer OS in the evening", "intent": "modify"}
+{"text": "NOW LIST THE LAB CLASSES", "intent": "view"}
+{"text": "please swap Discrete Mathematics to Wednesday now", "intent": "move"}
+{"text": "kindly schedule networks on Wednesday for me", "intent": "modify"}
+{"text": "produce a weekly timetable for CSE-5-A with five subjects!", "intent": "create"}
+{"text": "hey, Mr. Kummar cannot teach on Tue", "intent": "modify"}
+{"text": "ok so shift Machine Learning to Wednesday evening please", "intent": "move"}
+{"text": "now give us a longer lunch break.", "intent": "modify"}
+{"text": "hey, show only laboratory sessions for me", "intent": "view"}
+{"text": "now Machine Learning must be on Thursday", "intent": "modify"}
+{"text": "hey, draft a timetable for CSE-5-A!", "intent": "create"}
+{"text": "Could you no classes after 1 pm.", "intent": "modify"}
+{"text": "can you show the full timetable", "intent": "view"}
+{"text": "kindly prepare the schedule for CSE 3rd semester", "intent": "create"}
+{"text": "I want you to avoid saturday for ms. sharma please", "intent": "modify"}
+{"text": "give us Saturday off please", "intent": "modify"}
+{"text": "PLEASE VIEW THE TIMETABLE FOR CSSE-5-A!", "intent": "view"}
+{"text": "Please don't put java on friday!", "intent": "modify"}
+{"text": "do not schedule anything before 2 PM", "intent": "modify"}
+{"text": "kidly start over", "intent": "reset"}
+{"text": "cllear everything and start over", "intent": "reset"}
+{"text": "I want you to i want a different timetable please", "intent": "regenerate"}
+{"text": "I want you to postpone networks to Thu please", "intent": "move"}
+{"text": "kindly please generate a schedule for CSE-5-A!", "intent": "create"}
+{"text": "Can you move networks to fri!", "intent": "move"}
+{"text": "redo it", "intent": "regenerate"}
+{"text": "could you re-run the scheduling!", "intent": "regenerate"}
+{"text": "kindly show me only Wed morning", "intent": "view"}
+{"text": "kindly generate a timetable for CSE 5th semester with five subjects please", "intent": "create"}
+{"text": "prepare the schedule for section B", "intent": "create"}
+{"text": "I want you to reschedule OS to Thursday!", "intent": "move"}
+{"text": "Ok so can you create a timetable for section a!", "intent": "create"}
+{"text": "reset the timetable now", "intent": "reset"}
+{"text": "can you move DBMS to Saturday now", "intent": "move"}
+{"text": "reschedule DBMS lab to Saturay", "intent": "move"}
+{"text": "show only laboratory sessions", "intent": "view"}
+{"text": "display the schedule for CSE 5th semester now", "intent": "view"}
+{"text": "Ok so make a timetable for 5th sem now", "intent": "create"}
+{"text": "move it to Saturday.", "intent": "move"}
+{"text": "change Java lab from Wed to Wed.", "intent": "move"}
+{"text": "hey, give us Monday off now", "intent": "modify"}
+{"text": "avoid the first periood for Dr. Rao", "intent": "modify"}
+{"text": "Prof. Mehta is not available on Friday", "intent": "modify"}
+{"text": "hey, no classes after 10 AM.", "intent": "modify"}
+{"text": "hey, swap Machine Learning to Thu please", "intent": "move"}
+{"text": "can you please regenerate.", "intent": "regenerate"}
+{"text": "try again for me", "intent": "regenerate"}
+{"text": "can you move Discrete Mathematics from Monday to Monday", "intent": "move"}
+{"text": "hey, start over please", "intent": "reset"}
+{"text": "could you can you create a timetable for CSE 5th semester.", "intent": "create"}
+{"text": "rerun the solver pleae", "intent": "regenerate"}
+{"text": "kindly set up the semester 3 timetable for me", "intent": "create"}
+{"text": "generate it again!", "intent": "regenerate"}
+{"text": "now remove all constraints", "intent": "reset"}
+{"text": "schedule DBMS lab on Mon before lunch!", "intent": "modify"}
+{"text": "limit classes to before 2 PM", "intent": "modify"}
+{"text": "ok so show only lboratory sessions.", "intent": "view"}
+{"text": "move database to Fri at 3:15 pm pllease", "intent": "move"}
+{"text": "Can you change digital logic from tuesday to tuesday", "intent": "move"}
+{"text": "PLEASE CREATE A TIMETABLE FOR CSE 3RD SEMESTER FOR ME", "intent": "create"}
+{"text": "avoid scheduling two lab sessions on the same day!", "intent": "modify"}
+{"text": "hey, move Machine Learning from Thursday to Thursday now", "intent": "move"}
+{"text": "please show me Fri", "intent": "view"}
+{"text": "please reschedule Rao's class to Fri", "intent": "move"}
+{"text": "hey, try to schedule DBMS lab before 2 PM for me", "intent": "modify"}
+{"text": "hey, shift the Java lab lecture from Wednesday to Wednesday", "intent": "move"}
+{"text": "show the 5th sem timetable for me", "intent": "view"}
+{"text": "could you can you reshuffle the timetable", "intent": "regenerate"}
+{"text": "kindly what is the timetable for Mehta", "intent": "view"}
+{"text": "could you relocate DBMS lab to Fri now", "intent": "move"}
+{"text": "kindly restrict Prof. Mehta to morning classes!", "intent": "modify"}
+{"text": "could you add a break on Thursday after lunch", "intent": "modify"}
+{"text": "please prefer no classes on Tue evening please", "intent": "modify"}
+{"text": "now please regenerate", "intent": "regenerate"}
+{"text": "hey, I want a different timetable now", "intent": "regenerate"}
+{"text": "kindly give us a longer lunch break", "intent": "modify"}
+{"text": "I want you to draft a timetable for CSE-5-A.", "intent": "create"}
+{"text": "come up with a timetable for CSE 5th semester.", "intent": "create"}
+{"text": "I WANT YOU TO DISPLAY THE SCHEDULE FOR 5TH SEM NOW", "intent": "view"}
+{"text": "Now let's start from scratch!", "intent": "reset"}
+{"text": "ok so no classes between 9 AM and 9 AM please", "intent": "modify"}
+{"text": "show timetable of Dr. Rao for me", "intent": "view"}
+{"text": "kindly reschedule Dr. Rao's class to Friday", "intent": "move"}
+{"text": "can you show the full timeable.", "intent": "view"}
+{"text": "hey, restrict Rao to morning clsses", "intent": "modify"}
+{"text": "schedule DBMS on Thursday before lunch", "intent": "modify"}
+{"text": "could you regenerate the timetable now", "intent": "regenerate"}
+{"text": "kindly can you move Java to Thursday now", "intent": "move"}
+{"text": "display the schedule for 5th sem.", "intent": "view"}
+{"text": "limit classes to before 2 PM", "intent": "modify"}
+{"text": "I want you to make a timetable for CSE 3rd semester.", "intent": "create"}
+{"text": "reshuffle everything", "intent": "regenerate"}
+{"text": "OK SO RERUN THE SOLVER FOR ME", "intent": "regenerate"}
+{"text": "Display all labs", "intent": "view"}
+{"text": "please show the full timetable!", "intent": "view"}
+{"text": "now Computer Networks should be in the afternoon please", "intent": "modify"}
+{"text": "can you redo it.", "intent": "regenerate"}
+{"text": "hey, ensure Mon evening is free", "intent": "modify"}
+{"text": "hey, regenerate the timetable for me", "intent": "regenerate"}
+{"text": "I want you to display Mehta's timetable.", "intent": "view"}
+{"text": "could you show only theory classes", "intent": "view"}
+{"text": "Could you machine learning must be on mon for me", "intent": "modify"}
+{"text": "kindly I want a timetable for CSE 5th semester with five subjects.", "intent": "create"}
+{"text": "please try to schedule Software Engineering before 3:15 pm!", "intent": "modify"}
+{"text": "now display all labs now", "intent": "view"}
+{"text": "start over now", "intent": "reset"}
+{"text": "show the full timetable!", "intent": "view"}
+{"text": "hey, come up with a timetable for CSE 3rd semester", "intent": "create"}
+{"text": "ok so classes only after noon.", "intent": "modify"}
+{"text": "schedule Software Engineering on Saturday", "intent": "modify"}
+{"text": "relocate Discrete Mathematics to Saturday", "intent": "move"}
+{"text": "I want a timetable for section B with seven subjects", "intent": "create"}
+{"text": "I want you to swap Java to Saturday", "intent": "move"}
+{"text": "ok so keep Saturday after lunch free", "intent": "modify"}
+{"text": "can you classes only after 4:30 PM!", "intent": "modify"}
+{"text": "can you move it to Saturday now", "intent": "move"}
+{"text": "hey, delete all constraints.", "intent": "reset"}
+{"text": "another version please", "intent": "regenerate"}
+{"text": "new timetable for section A please", "intent": "create"}
+{"text": "prepone database to Mon please", "intent": "move"}
+{"text": "now another version please now", "intent": "regenerate"}
+{"text": "avoid Monday for Ms. Sharma", "intent": "modify"}
+{"text": "avoid the first period for Ms. Sharma pleease", "intent": "modify"}
+{"text": "try again.", "intent": "regenerate"}
+{"text": "kindly move the Operating Systems class from Wed to Wed", "intent": "move"}
+{"text": "now display all labs", "intent": "view"}
+{"text": "kindly no classes after 10 AM", "intent": "modify"}
+{"text": "now avoid scheduling two lab sessions on the same day for me", "intent": "modify"}
+{"text": "add a break on Friday afternoon now", "intent": "modify"}
+{"text": "show me only Wednesday evening for me", "intent": "view"}
+{"text": "kindly generate tmetable section A", "intent": "create"}
+{"text": "I want you to transfer DBMS lab from Thu to Thu", "intent": "move"}
+{"text": "Please move dbms to thursday!", "intent": "move"}
+{"text": "can you put Discrete Mathematics on Monday evening please", "intent": "modify"}
+{"text": "can you reshuffle the timetable now", "intent": "regenerate"}
+{"text": "I want you to reset all", "intent": "reset"}
+{"text": "kindly keep Thu free.", "intent": "modify"}
+{"text": "shift Operating Systems to Thursday morning for me", "intent": "move"}
+{"text": "I prefer Software Engineering in the morning", "intent": "modify"}
+{"text": "hey, draft a timetable for CSE 3rd semester.", "intent": "create"}
+{"text": "kindly avoid Mon for Dr. Iyer for me", "intent": "modify"}
+{"text": "Now re-run the scheduling for me", "intent": "regenerate"}
+{"text": "now wipe it and begin agaain", "intent": "reset"}
+{"text": "please give us Thursday off please", "intent": "modify"}
+{"text": "I want you to make Thursday a free day", "intent": "modify"}
+{"text": "please shift the Data Structures lecture from Wed to Wed for me", "intent": "move"}
+{"text": "I want a timetable for 5th sem with 5 subjects please", "intent": "create"}
+{"text": "postpone Data Structures to Mon.", "intent": "move"}
+{"text": "hey, which classes are on Tue", "intent": "view"}
+{"text": "hey, make sure there are no labs on Thu please", "intent": "modify"}
+{"text": "no classes after 4 PM now", "intent": "modify"}
+{"text": "I want you to can you create a timetable for section B for me", "intent": "create"}
+{"text": "please generate a timetable for section B with 8 subjects", "intent": "create"}
+{"text": "now swap networks to Monday", "intent": "move"}
+{"text": "Show the full timetable please", "intent": "view"}
+{"text": "Ok so i prefer operating systems in the evening now", "intent": "modify"}
+{"text": "could you I need a timetable for section B for me", "intent": "create"}
+{"text": "show the section A timetable", "intent": "view"}
+{"text": "can you reshuffle everything", "intent": "regenerate"}
+{"text": "now show timetable of Prof. Gupta!", "intent": "view"}
+{"text": "CAN YOU REMOVE ALL CONSTRAINTS PLEASE", "intent": "reset"}
+{"text": "can you try to schedule Computer Networks before 4:30 PM!", "intent": "modify"}
+{"text": "Restrict kumar to after lunch classes now", "intent": "modify"}
+{"text": "I want you to prepone database to tuesday!", "intent": "move"}
+{"text": "kindly wipe it and begin again", "intent": "reset"}
+{"text": "please make the lunch break shorter", "intent": "modify"}
+{"text": "Try again please", "intent": "regenerate"}
+{"text": "re-rn the scheduling", "intent": "regenerate"}
+{"text": "can you can you move Computer Networks to Saturday for me", "intent": "move"}
+{"text": "Hey, classes only after 11 am.", "intent": "modify"}
+{"text": "hey, reschedule Prof. Mehta's class to Thu.", "intent": "move"}
+{"text": "print the timetable for CSE-5-A", "intent": "view"}
+{"text": "please prefer no classes on Saturday after lunch.", "intent": "modify"}
+{"text": "do not schedule anything before 10 AM.", "intent": "modify"}
+{"text": "could you delete all constraints.", "intent": "reset"}
+{"text": "coulld you make Thursday a free day.", "intent": "modify"}
+{"text": "please show only theory classes.", "intent": "view"}
+{"text": "can you can you reshuffle the timetable", "intent": "regenerate"}
+{"text": "now generate a timetable for CSE 5th semester with seven subjects", "intent": "create"}
+{"text": "hey, keep Fri free", "intent": "modify"}
+{"text": "can you avoid scheduling two lab sessions on the same day.", "intent": "modify"}
+{"text": "kindly show timetable of Rao please", "intent": "view"}
+{"text": "print the timetable for CSE 3rd semester", "intent": "view"}
+{"text": "ok so come up with a timetable for section A.", "intent": "create"}
+{"text": "KINDLY CLEAR EVERYTHING AND START OVER", "intent": "reset"}
+{"text": "please show Software Engineering classes please", "intent": "view"}
+{"text": "hey, draft a timetable for section A!", "intent": "create"}
+{"text": "could you delete all constraints.", "intent": "reset"}
+{"text": "could you reset all.", "intent": "reset"}
+{"text": "I want you to move it to Monday!", "intent": "move"}
+{"text": "kindly don't schedule classes after 4 PM", "intent": "modify"}
+{"text": "can you show the timetable for 5th sem!", "intent": "view"}
+{"text": "Please make the lunch break shorter", "intent": "modify"}
+{"text": "Could you prefer no classes on tue evening please", "intent": "modify"}
+{"text": "please don't schedule classes after 9 AM", "intent": "modify"}
+{"text": "show everything!", "intent": "view"}
+{"text": "print the timetable for CSE-5--A please", "intent": "view"}
+{"text": "show timetable of Mehta", "intent": "view"}
+{"text": "Add a break on fri before lunch now", "intent": "modify"}
+{"text": "hey, regenerate it with the same rules now", "intent": "regenerate"}
+{"text": "don't put Data Structures on Thursday.", "intent": "modify"}
+{"text": "KINDLY OS SHOULD BE IN THE AFTERNOON.", "intent": "modify"}
+{"text": "I want you to can you create a timetable for CSE 5th semester for me", "intent": "create"}
+{"text": "please re-run the scheduling", "intent": "regenerate"}
+{"text": "which classes are on Wed.", "intent": "view"}
+{"text": "I want you to reschedule DBMS lab to Saturday.", "intent": "move"}
+{"text": "ok so produce a weekly timetable for section B with six subjects", "intent": "create"}
+{"text": "now Prof. Gupta cannot teach on Saturday", "intent": "modify"}
+{"text": "ok so build a new timetable for section B!", "intent": "create"}
+{"text": "reset all", "intent": "reset"}
+{"text": "hey, please generate a schedule for CSE-5-A", "intent": "create"}
+{"text": "ok so show the timetable for section A", "intent": "view"}
+{"text": "could you do not schedule anything before 9 AM", "intent": "modify"}
+{"text": "LET'S START FROM SCRATCH PLEASE", "intent": "reset"}
+{"text": "ok so show me only Monday evening!", "intent": "view"}
+{"text": "Kinly redo the timetable please", "intent": "regenerate"}
+{"text": "view the timetable for CSE 5th semester now", "intent": "view"}
+{"text": "can you don't schedule classes after 3:15 pm for me", "intent": "modify"}
+{"text": "can you move Java lab to Wednesday please", "intent": "move"}
+{"text": "now build a new timetable for CSE 3rd semester please", "intent": "create"}
+{"text": "clear all constraints please", "intent": "reset"}
+{"text": "now schedule Discrete Mathematics on Wednesday morning!", "intent": "modify"}
+{"text": "Can you relocate java lab to thu", "intent": "move"}
+{"text": "can you show only laboratory sessions for me", "intent": "view"}
+{"text": "Restrict prof. mehta to evening classes", "intent": "modify"}
+{"text": "show database classes!", "intent": "view"}
+{"text": "Mr. Kumar cannot teach on Mon!", "intent": "modify"}
+{"text": "Kindly show everything", "intent": "view"}
+{"text": "could you give me another timetable.", "intent": "regenerate"}
+{"text": "prepone database to Thu", "intent": "move"}
+{"text": "I want you to give me another timetable now", "intent": "regenerate"}
+{"text": "hey, another version please", "intent": "regenerate"}
+{"text": "hey, Java lab should be in the before lunch for me", "intent": "modify"}
+{"text": "could you see the Tuesday schedule", "intent": "view"}
+{"text": "Now come up with a timetable for cse 5th semester.", "intent": "create"}
+{"text": "please redo it", "intent": "regenerate"}
+{"text": "now show Java classes please", "intent": "view"}
+{"text": "kindly please move OS to Saturday morning", "intent": "move"}
+{"text": "ok so avoid scheduling two lab sessions on the same day please", "intent": "modify"}
+{"text": "Can you can you create a timetable for section b", "intent": "create"}
+{"text": "redo it", "intent": "regenerate"}
+{"text": "hey, what is the timetable for Prof. Gupta!", "intent": "view"}
+{"text": "kindly redo the timetable.", "intent": "regenerate"}
+{"text": "kindly generate a timetable for section B with 6 subjects", "intent": "create"}
+{"text": "could you move Digital Logic to Thu.", "intent": "move"}
+{"text": "reset the timetable.", "intent": "reset"}
+{"text": "hey, Prof. Mehta cannot teach on Tue.", "intent": "modify"}
+{"text": "ok so another verrsion please", "intent": "regenerate"}
+{"text": "now reset everything please", "intent": "reset"}
+{"text": "PLEASE GIVE ME ANOTHER TIMETABLE", "intent": "regenerate"}
+{"text": "please give me another timetable", "intent": "regenerate"}
+{"text": "clear all constraints", "intent": "reset"}
+{"text": "I want you to do not schedule anything before noon", "intent": "modify"}
+{"text": "can you keep Thu morning free", "intent": "modify"}
+{"text": "I want you to print the timetable for section B for me", "intent": "view"}
+{"text": "Kindly make sure there are no labs on saturday for me", "intent": "modify"}
+{"text": "pease do not schedule anything before noon", "intent": "modify"}
+{"text": "change OS from Wed to Wed now", "intent": "move"}
+{"text": "hey, make sure there are no labs on Tue for me", "intent": "modify"}
+{"text": "ok so start afresh", "intent": "reset"}
+{"text": "reschedule Rao's class to Fri", "intent": "move"}
+{"text": "kindly let's start from scratch", "intent": "reset"}
+{"text": "can you try to schedule Software Engineering before 4:30 PM", "intent": "modify"}
+{"text": "hey, show timetable of Rao for me", "intent": "view"}
+{"text": "which classes are on Thursday.", "intent": "view"}
+{"text": "kindly forget everything", "intent": "reset"}
+{"text": "ok so re-run the scheduling.", "intent": "regenerate"}
+{"text": "hey, Rao is not available on Wednesday!", "intent": "modify"}
+{"text": "Can you make sure there are no labs on friday please", "intent": "modify"}
+{"text": "can you swap networks to Tue", "intent": "move"}
+{"text": "SHOW ONLY THEORY CLASSES PLEASE", "intent": "view"}
+{"text": "kindly limit classes to before 1 PM for me", "intent": "modify"}
+{"text": "ok so regenerate the timetable", "intent": "regenerate"}
+{"text": "SHOW THE CSE 5TH SEMESTER TIMETABBLE", "intent": "view"}
+{"text": "now clear everything and start over please", "intent": "reset"}
+{"text": "now I need a timetable for CSE-5-A please", "intent": "create"}
+{"text": "ok so give us a longer lunch break", "intent": "modify"}
+{"text": "what is the timetabe for Rao", "intent": "view"}
+{"text": "Produce a weekly timetable for 5th sem with 5 subjects.", "intent": "create"}
+{"text": "kindly no classes after 4:30 PM", "intent": "modify"}
+{"text": "could you avoid Wednesday for Mr. Kumar", "intent": "modify"}
+{"text": "Postpone dbms lab to friday", "intent": "move"}
+{"text": "hey, prefer no classes on Wednesday morning for me", "intent": "modify"}
+{"text": "please please move Digital Logic to Friday morning!", "intent": "move"}
+{"text": "SCHEDULE SOFTWARE ENGINEERING ON WEDNESDAY MORNING NOW", "intent": "modify"}
+{"text": "can you build a new timetable for CSE-5-A", "intent": "create"}
+{"text": "kindly avoid the first period for Prof. Gupta for me", "intent": "modify"}
+{"text": "hey, limit classes to before noon please", "intent": "modify"}
+{"text": "COULD YOU GIVE ME ANOTHER TIMETABLE!", "intent": "regenerate"}
+{"text": "make the lunch break shorter!", "intent": "modify"}
+{"text": "now delete all constraints please", "intent": "reset"}
+{"text": "I want you to shuffle the classes and try again please", "intent": "regenerate"}
+{"text": "CAN YOU GENERATE IT AGAIN", "intent": "regenerate"}
+{"text": "please schedule Software Engineerng on Mon", "intent": "modify"}
+{"text": "Redo it", "intent": "regenerate"}
+{"text": "SHOW THE TIMETABLE FOR CSE 3RD SEMESTER", "intent": "view"}
+{"text": "kindly when is Discrete Mathematics", "intent": "view"}
+{"text": "can you don't schedule classes after 1 PM!", "intent": "modify"}
+{"text": "Software Engineering should be in the evening for me", "intent": "modify"}
+{"text": "please I want a timetable for CSE 5th semester with four subjects now", "intent": "create"}
+{"text": "Kindly move software engineering to thursday.", "intent": "move"}
+{"text": "could you shift networks to Monday ater lunch", "intent": "move"}
+{"text": "what is the timetable for Prof. Mehta", "intent": "view"}
+{"text": "rehuffle everything", "intent": "regenerate"}
+{"text": "ok so avoid scheduling two lab sessions on the same day.", "intent": "modify"}
+{"text": "hey, list the lab classes", "intent": "view"}
+{"text": "can you generate it again now", "intent": "regenerate"}
+{"text": "PROF. MEHTA IS NOT AVAILABLE ON MON PLEASE", "intent": "modify"}
+{"text": "give us Monday off for me", "intent": "modify"}
+{"text": "ok so please regenerate please", "intent": "regenerate"}
+{"text": "please redo the timetable for me", "intent": "regenerate"}
+{"text": "kindly avoid the first period for Prof. Mehta", "intent": "modify"}
+{"text": "show only theory classes please", "intent": "view"}
+{"text": "kindly set up the section A timetable!", "intent": "create"}

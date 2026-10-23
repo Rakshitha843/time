@@ -1,0 +1,30 @@
+{"text": "Could you assemble a timetable for CSE 3rd semester using four subjects", "intent": "create"}
+{"text": "Let's get a schedule going for section A", "intent": "create"}
+{"text": "We need a brand new weekly timetable for the fifth sem", "intent": "create"}
+{"text": "Mr. Kumar has a clash on Tuesdays so he can't be scheduled then", "intent": "modify"}
+{"text": "I'd rather have Computer Networks in the afternoon", "intent": "modify"}
+{"text": "No lectures on Saturday please", "intent": "modify"}
+{"text": "Keep the last period of the day empty", "intent": "modify"}
+{"text": "Make sure Machine Learning comes before lunch on Thursday", "intent": "modify"}
+{"text": "Students shouldn't have more than one lab per day", "intent": "modify"}
+{"text": "Can we have Friday evenings blocked", "intent": "modify"}
+{"text": "DBMS lab should not be on Monday", "intent": "modify"}
+{"text": "Extend the lunch time by an hour", "intent": "modify"}
+{"text": "Move Java to Thursday morning", "intent": "move"}
+{"text": "Take Operating Systems off Monday and put it on Wednesday", "intent": "move"}
+{"text": "Can you push Software Engineering to Friday", "intent": "move"}
+{"text": "Reassign the DBMS class from Tuesday to Monday", "intent": "move"}
+{"text": "I want to see the schedule for CSE-5-B", "intent": "view"}
+{"text": "Show just the Tuesday classes", "intent": "view"}
+{"text": "Only Prof. Mehta's classes please", "intent": "view"}
+{"text": "Let me look at the lab sessions only", "intent": "view"}
+{"text": "Show the whole week again", "intent": "view"}
+{"text": "Regenerate with a fresh random arrangement", "intent": "regenerate"}
+{"text": "I don't like this one, redo it", "intent": "regenerate"}
+{"text": "Can you come up with another option", "intent": "regenerate"}
+{"text": "Shuffle the classes around", "intent": "regenerate"}
+{"text": "Discard all the rules we added", "intent": "reset"}
+{"text": "Start again from the beginning", "intent": "reset"}
+{"text": "Erase everything we've done", "intent": "reset"}
+{"text": "What's the weather like today", "intent": "unknown"}
+{"text": "Tell me a joke", "intent": "unknown"}
